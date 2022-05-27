@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/as-seen-on-tv.svg)](https://forthebadge.com)
+[![Kevin Ashworth StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/7082724)](https://stackoverflow.com/users/7082724/kevin-ashworth)
