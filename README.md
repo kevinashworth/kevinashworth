@@ -4,9 +4,9 @@
 
 ### Hi! 
 
-### My name is Kevin Ashworth. I’m an actor and front-end web developer. I live in Los Angeles.
+### My name is Kevin Ashworth. I’m an acting teacher, actor and front-end web developer. I live in Los Angeles.
 
-Well-versed in React and Material-UI.
+Well-versed in React, TailwindCSS, zustand, TypeScript, zod, TanStack Query, Material-UI.
 
 Node.js, npm, Docker, Cypress, Bitbucket, Jira, GitHub, react-bootstrap, and many more.
 
