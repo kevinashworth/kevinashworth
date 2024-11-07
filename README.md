@@ -4,11 +4,11 @@
 
 ### Hi! 
 
-### My name is Kevin Ashworth. I’m an acting teacher, actor and front-end web developer. I live in Los Angeles.
+### My name is Kevin Ashworth. I’m front-end web developer, acting teacher, and actor. I live in Los Angeles.
 
-Well-versed in React, TailwindCSS, zustand, TypeScript, zod, TanStack Query, Material-UI.
+Well-versed in React, React Native, TailwindCSS, zustand, TypeScript, zod, TanStack Query.
 
-Node.js, npm, Docker, Cypress, Bitbucket, Jira, GitHub, react-bootstrap, and many more.
+Node.js, npm, Docker, Cypress, Bitbucket, Jira, GitHub, react-bootstrap, Material-UI, and many more.
 
 <!--
 **kevinashworth/kevinashworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,4 +29,6 @@ Here are some ideas to get you started:
 
 [![forthebadge](https://forthebadge.com/images/badges/as-seen-on-tv.svg)](https://imdb.me/kevinashworth)
 
+<!--
 [![Kevin Ashworth StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/7082724)](https://stackoverflow.com/users/7082724/kevin-ashworth)
+-->
