@@ -1,16 +1,14 @@
 # About Me
 
-## [about.me/kevinashworth](https://about.me/kevinashworth)
-
-### Hi! 
-
-### My name is Kevin Ashworth. I’m front-end web developer. I live in Los Angeles.
+### Hi! My name is Kevin Ashworth. I’m a full-stack web developer. I live in Los Angeles.
 
 Well-versed in React, Vite, Tailwind, TypeScript.
 
 Love me some TanStack Query.
 
 All over Node.js, npm, Docker, Cypress, Jest, Maestro, Bitbucket, Jira, GitHub, and many more.
+
+#### [about.me/kevinashworth](https://about.me/kevinashworth)
 
 <!--
 --- 
